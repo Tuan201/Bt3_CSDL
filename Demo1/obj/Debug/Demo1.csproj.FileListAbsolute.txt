@@ -1,0 +1,19 @@
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\bin\Debug\Demo1.exe
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\bin\Debug\Demo1.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\obj\Debug\Demo1.exe
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\obj\Debug\Demo1.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\obj\Debug\Demo1.AddFeedForm.resources
+C:\Users\ADMIN\OneDrive\Máy tính\sdg\Demo1\Demo1\obj\Debug\Demo1.MainForm.resources
+D:\tài liệu học tập\cơ sở năm 3\sdg\Demo1\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+D:\tài liệu học tập\cơ sở năm 3\sdg\Demo1\Demo1\obj\Debug\Demo1.AddFeedForm.resources
+D:\tài liệu học tập\cơ sở năm 3\sdg\Demo1\Demo1\obj\Debug\Demo1.MainForm.resources
+D:\tài liệu học tập\cơ sở năm 3\sdg\Demo1\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+D:\tài liệu học tập\cơ sở năm 3\sdg\Demo1\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+D:\tài liệu học tập\cơ sở năm 3\sdg\Demo1\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+D:\tài liệu học tập\cơ sở năm 3\sdg\Demo1\Demo1\obj\Debug\Demo1.exe
+D:\tài liệu học tập\cơ sở năm 3\sdg\Demo1\Demo1\obj\Debug\Demo1.pdb
